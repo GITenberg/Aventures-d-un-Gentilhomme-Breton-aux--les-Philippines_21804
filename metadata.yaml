@@ -1,0 +1,31 @@
+_repo: Aventures-d-un-Gentilhomme-Breton-aux--les-Philippines_21804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Gironière, Paul P. de
+    aliases:
+    - La Gironiere, Paul P. de
+    - Gironière, Paul P. de la
+    birthdate: 1797
+    deathdate: 1862
+    gutenberg_agent_id: '34544'
+    url: http://www.gutenberg.org/2009/agents/34544
+    wikipedia: http://en.wikipedia.org/wiki/Paul_de_la_Gironi%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21804'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines'
+title: Aventures d'un Gentilhomme Breton aux îles Philippines
+url: http://www.gutenberg.org/ebooks/21804
